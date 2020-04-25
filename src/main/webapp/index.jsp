@@ -1,8 +1,8 @@
 <html>
 <body>
-<h2>Welcome to the DevOps Training!</h2>
+<h2>Get into DevOps!</h2>
 <br>
-  <h2>Today is the final day of our wonderful session.</h2>
+  <h2>Continious integration and Continious delivery!.</h2>
 </br>
 </body>
 </html>
